@@ -3,3 +3,4 @@
 gradle/
 media-broker.iml
 out/
+application.yml
