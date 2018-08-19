@@ -1,2 +1,3 @@
 ## Media Broker
-Aggregates Google News and Twitter into an HTTP broker, built with Spring Boot.
+HTTP service aggregating Google News and Twitter. Uses Spring Boot's automatic
+dependency injection and MVC design.
